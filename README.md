@@ -1,0 +1,2 @@
+# SagarSingh_Primetrade_Assignment
+Trader Sentimental Analysis
